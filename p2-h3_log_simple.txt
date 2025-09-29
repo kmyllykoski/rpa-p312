@@ -1,0 +1,16 @@
+2025-09-22 14:31:13,839 Aloitusaika: 22.09.2025 14:31:13
+2025-09-22 14:31:18,372 Sovellus avattu.
+2025-09-22 14:31:19,330 Window handle: WindowsElement(item=<WindowControl ClassName='Window' AutomationId= Rect=(228,228,1806,1019)[1578x791] Name='MainWindow' Handle=0xDF021E(14615070)>, locator='regex:"MainWindow*" and type:WindowControl', name='MainWindow', automation_id='', control_type='WindowControl', class_name='Window', left=228, right=1806, top=228, bottom=1019, width=1578, height=791, xcenter=1017, ycenter=623)
+2025-09-22 14:31:20,677 Excel headers: ['Nimi', 'Osoite', 'Puhelinnumero']
+2025-09-22 14:31:22,445 Lisätty: Excel rivi 1: Teppo Kuusitie 6 445566
+2025-09-22 14:31:24,196 Lisätty: Excel rivi 2: Liisa Koivutie 1 886622
+2025-09-22 14:31:25,913 Lisätty: Excel rivi 3: Jukka Mäntykuja 10 114455
+2025-09-22 14:31:25,913 Epäkelpo rivi - ohitetaan: Excel rivi 4: nan Pajuväylä 100 7272323 Syy: Nimi solu on tyhjä (nan).
+2025-09-22 14:31:25,914 Epäkelpo rivi - ohitetaan: Excel rivi 5:     Jokitie 12 4546656 Syy: Nimi solussa välilyöntejä.
+2025-09-22 14:31:27,645 Lisätty: Excel rivi 6: Tiina Leppäkuja 4 3938998
+2025-09-22 14:31:27,647 Sovellus suljettu.
+2025-09-22 14:31:27,647 Lopetusaika: 22.09.2025 14:31:27
+2025-09-22 14:31:27,647 Kesto: 0:00:13.808318
+2025-09-22 14:31:27,647 Käsiteltyjen rivien määrä: 6
+2025-09-22 14:31:29,355 Email sent successfully with return value True
+2025-09-22 14:31:29,356 ****** DONE ******

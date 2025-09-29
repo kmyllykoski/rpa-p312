@@ -1,0 +1,15 @@
+2025-09-22 13:47:40,918 Sovellus avattu.
+2025-09-22 13:47:41,878 Window handle: WindowsElement(item=<WindowControl ClassName='Window' AutomationId= Rect=(494,494,1545,1019)[1051x525] Name='Älytalosovellus versio 0.1' Handle=0x2C0FDE(2887646)>, locator='regex:"Älytalosovellus*" and type:WindowControl', name='Älytalosovellus versio 0.1', automation_id='', control_type='WindowControl', class_name='Window', left=494, right=1545, top=494, bottom=1019, width=1051, height=525, xcenter=1019, ycenter=756)
+2025-09-22 13:47:42,887 Talon lämpotila on nyt: 21°
+2025-09-22 13:47:43,607 Asetettu uusi lämpotila: 25
+2025-09-22 13:47:44,343 Asetettu uusi lämpotila: 24
+2025-09-22 13:47:45,092 Asetettu uusi lämpotila: 23
+2025-09-22 13:47:45,808 Asetettu uusi lämpotila: 22
+2025-09-22 13:47:46,506 Asetettu uusi lämpotila: 21
+2025-09-22 13:47:46,506 Virheellinen lämpotila: 101 -> Ohitetaan.
+2025-09-22 13:47:47,239 Asetettu uusi lämpotila: 19
+2025-09-22 13:47:47,924 Asetettu uusi lämpotila: 18
+2025-09-22 13:47:47,924 Virheellinen lämpotila: 8 -> Ohitetaan.
+2025-09-22 13:47:48,607 Asetettu uusi lämpotila: 16
+2025-09-22 13:47:48,613 Talon lämpotila on nyt: 16°
+2025-09-22 13:47:53,615 Sovellus suljettu.

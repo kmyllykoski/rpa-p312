@@ -1,0 +1,14 @@
+2025-09-22 15:16:28,747 Aloitusaika: 22.09.2025 15:16:28
+2025-09-22 15:16:33,274 Sovellus avattu.
+2025-09-22 15:16:34,294 Window handle: WindowsElement(item=<WindowControl ClassName='Window' AutomationId= Rect=(494,494,2072,1285)[1578x791] Name='MainWindow' Handle=0xE607CE(15075278)>, locator='regex:"MainWindow*" and type:WindowControl', name='MainWindow', automation_id='', control_type='WindowControl', class_name='Window', left=494, right=2072, top=494, bottom=1285, width=1578, height=791, xcenter=1283, ycenter=889)
+2025-09-22 15:16:35,583 Asiakastiedot luettu tietokannasta Customers-taulusta. Rivien määrä: 5
+2025-09-22 15:16:37,502 Lisätty: Excel rivi 1: ALFKI Maria Anders Obere Str. 57, Berlin, 12209, Germany Puh: 030-0074321 Fax: 030-0076545
+2025-09-22 15:16:39,568 Lisätty: Excel rivi 2: ANATR Ana Trujillo Avda. de la Constitución 2222, México D.F., 05021, Mexico Puh: (5) 555-4729 Fax: (5) 555-3745
+2025-09-22 15:16:41,599 Lisätty: Excel rivi 3: ANTON Antonio Moreno Mataderos  2312, México D.F., 05023, Mexico Puh: (5) 555-3932 Fax: None
+2025-09-22 15:16:43,701 Lisätty: Excel rivi 4: AROUT Thomas Hardy 120 Hanover Sq., London, WA1 1DP, UK Puh: (171) 555-7788 Fax: (171) 555-6750
+2025-09-22 15:16:45,868 Lisätty: Excel rivi 5: BERGS Christina Berglund Berguvsvägen  8, Luleå, S-958 22, Sweden Puh: 0921-12 34 65 Fax: 0921-12 34 67
+2025-09-22 15:16:46,049 Lopetusaika: 22.09.2025 15:16:46
+2025-09-22 15:16:46,049 Kesto: 0:00:17.325812
+2025-09-22 15:16:46,050 Käsiteltyjen rivien määrä: 5
+2025-09-22 15:16:49,052 Sovellus suljettu.
+2025-09-22 15:16:49,052 ****** DONE ******

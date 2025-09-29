@@ -1,0 +1,6 @@
+2025-09-22 14:48:49,669 Aloitusaika: 22.09.2025 14:48:49
+2025-09-22 14:48:50,075 Tuotetiedot luettu tiedostosta D:\\CAREERIA\\it-opiskelu\\2025-syksy\\robot\\harjoitus_data\\products.xlsx.
+2025-09-22 14:48:50,145 Tuotetiedot lajiteltu ja tallennettu tiedostoon D:\\CAREERIA\\it-opiskelu\\2025-syksy\\robot\\harjoitus_data\\products_divided.xlsx.
+2025-09-22 14:48:50,145 Lopetusaika: 22.09.2025 14:48:50
+2025-09-22 14:48:50,145 Ajon kesto: 0:00:00.475912
+2025-09-22 14:48:50,145 ****** DONE ******

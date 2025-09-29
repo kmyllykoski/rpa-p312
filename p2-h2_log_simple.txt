@@ -1,0 +1,14 @@
+2025-09-22 13:51:30,434 Sovellus avattu.
+2025-09-22 13:51:31,436 Window handle: WindowsElement(item=<WindowControl ClassName='Window' AutomationId= Rect=(38,38,1089,563)[1051x525] Name='Älytalosovellus versio 0.1' Handle=0x5D08D2(6097106)>, locator='regex:"Älytalosovellus*" and type:WindowControl', name='Älytalosovellus versio 0.1', automation_id='', control_type='WindowControl', class_name='Window', left=38, right=1089, top=38, bottom=563, width=1051, height=525, xcenter=563, ycenter=300)
+2025-09-22 13:51:32,397 Talon lämpotila on nyt: 21°
+2025-09-22 13:51:33,130 Talon lämpotila on nyt: 25°
+2025-09-22 13:51:33,843 Talon lämpotila on nyt: 24°
+2025-09-22 13:51:34,528 Talon lämpotila on nyt: 23°
+2025-09-22 13:51:35,223 Talon lämpotila on nyt: 22°
+2025-09-22 13:51:35,927 Talon lämpotila on nyt: 21°
+2025-09-22 13:51:35,927 Virheellinen lämpotila: 101 -> Ohitetaan.
+2025-09-22 13:51:36,610 Talon lämpotila on nyt: 19°
+2025-09-22 13:51:37,310 Talon lämpotila on nyt: 18°
+2025-09-22 13:51:37,310 Virheellinen lämpotila: 8 -> Ohitetaan.
+2025-09-22 13:51:37,994 Talon lämpotila on nyt: 16°
+2025-09-22 13:51:40,996 Sovellus suljettu.
