@@ -29,9 +29,9 @@ import os
 # email_sender = input("Anna sähköpostiosoite jolta viestit haetaan (esim. opettajan): ").strip()
 # email_outlook_account = input("Anna oma sähköpostiosoitteesi (johon viesti tästä RPA ohjelmasta myös lähetetään): ").strip()
 
-# email_sender = "Simo.Siren@careeria.fi"
-email_sender = "Johanna.Merikanto@careeria.fi"
-email_outlook_account = "kennet.myllykoski@student.careeria.fi"
+# email_sender = "aaa.bbb@careeria.fi"
+email_sender = "ccc.dddd@careeria.fi"
+email_outlook_account = "eeee.ffff@student.careeria.fi"
 email_subject_keyword = "HOKS"
 # email_report_recipients = f"{email_outlook_account}"  # when debugging send only to self
 email_report_recipients = f"{email_sender}; {email_outlook_account}"

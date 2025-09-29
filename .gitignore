@@ -9,3 +9,15 @@ wheels/
 
 # Virtual environments
 .venv
+p1-h1_log_simple.txt
+p1-h1_log.txt
+p1-h2_log_simple.txt
+p1-h2_log.txt
+p2-h3_log_simple.txt
+p2-h3_log.txt
+p3-h3_log_simple.txt
+p3-h3_log.txt
+p4-h2_log_simple.txt
+p4-h2_log.txt
+p5-h-final_log_simple.txt
+p5-h-final_log.txt
