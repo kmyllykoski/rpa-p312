@@ -1,10 +1,18 @@
 ### Asennus
 
+Asennetaan UV 
+
+```powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"```
+
 ```md robo-test```
+
 ```cd robo-test```
+
+Avataan hakemisto VS Codessa
+
 ```code .```
 
-open terminal
+Avataan uusi terminaali VS Codessa
 
 Luodaan uusi uv ympäristö. Jos Python versiota ei erikseen ilmoiteta tässä, niin se valitsee uusimman/oletusarvoisen niistä jotka ovat uv:lle ladattuna. Uusin versio jolla rpaframework tällä hetkellä toimii on 3.12.
 
@@ -21,6 +29,8 @@ Aktivoidaan ympäristö käyttöön:
 Asennetaan ohjelmistorobotiikkakirjasto:
 
 ```uv pip install rpaframework```
+
 ```uv pip install robocorp``` 
+
 
 
